@@ -1,5 +1,6 @@
 
-<img width="1921" height="4146" alt="screencapture-127-0-0-1-5501-2026-02-05-00_24_41" src="https://github.com/user-attachments/assets/e3aed2ea-8a4e-428f-970d-326ddaee5183" />
+<img width="1921" height="4097" alt="screencapture-127-0-0-1-5501-2026-02-05-02_53_12" src="https://github.com/user-attachments/assets/dbeb05d6-a65c-4143-8562-0d1250e42fbe" />
+
 
 # Electronic-e-life
 Electronic-e-life is a project focused on exploring electronic systems and digital life concepts through practical implementation. The project demonstrates how electronics and software can work together to create smart, interactive, or automated solutions.
